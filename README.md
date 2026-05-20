@@ -41,13 +41,7 @@ Designed with a premium modern UI, smooth animations, interactive effects, and D
 Coming Soon...
 ```
 
----
-
-## 📸 Preview
-
-<img width="100%" src="/MyImg.jpeg">
-
----
+-
 
 ## 🚀 Getting Started
 
